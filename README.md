@@ -6,7 +6,7 @@
 
 
 I'm <h2>LAKSHMAN REDDY </h2>
-Completing a MERN stack internship with Edureka offers hands-on experience in full-stack web development. You'll learn front-end with React.js, back-end with Node.js and Express.js, database management with MongoDB, and essential skills like version control, deployment, and troubleshooting. Projects and portfolio building are emphasized, preparing you for entry-level positions in web development.
+"As a Full Stack Developer and Web and Tech Intern at Seaside Sustainability, I’m immersing myself in both front-end and back-end development. My role involves enhancing digital platforms, collaborating on UI/UX improvements, and staying on the cutting edge of emerging technologies. My GitHub is where I showcase these projects, from coding and testing to innovative solutions. 
 
 
 
