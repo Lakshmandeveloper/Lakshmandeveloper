@@ -1,8 +1,8 @@
  ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lakshman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmantetali//)](https://www.linkedin.com/in/lakshmantetali/)
-//[![Website Badge](https://img.shields.io/badge/WebSite-Lakshman-green)](https://www.akash)
+[![Linkedin Badge](https://img.shields.io/badge/-Lakshman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmantetali/)](https://www.linkedin.com/in/lakshmantetali/)
+
 
 
 ### GitHub Profile Summary  
