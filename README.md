@@ -5,9 +5,33 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Lakshman-green)](https://www.akash)
 
 
-I'm <h2>LAKSHMAN REDDY </h2>
-"As a Full Stack Developer and Web and Tech Intern at Seaside Sustainability, I’m immersing myself in both front-end and back-end development. My role involves enhancing digital platforms, collaborating on UI/UX improvements, and staying on the cutting edge of emerging technologies. My GitHub is where I showcase these projects, from coding and testing to innovative solutions. 
+### GitHub Profile Summary  
 
+🚀 **Lakshman Tetali | Full Stack Developer**  
+Innovative and results-driven **Full Stack Developer** with **4+ years** of experience in designing and implementing scalable web applications. Adept at **Java, Spring Boot, React.js, Angular, Node.js, and Microservices**, with a deep understanding of database management, cloud deployment, and DevOps tools. Passionate about building high-performance, secure, and user-friendly solutions.  
+
+🔹 **Key Skills:**  
+- **Frontend**: React.js, Angular.js, HTML, CSS, JavaScript  
+- **Backend**: Java, Spring Boot, Microservices, Node.js, Express.js  
+- **Database**: Oracle, MySQL, MongoDB, PostgreSQL  
+- **DevOps & Cloud**: AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
+- **Other**: RESTful APIs, OAuth2, Kafka, WebSockets, Swagger, CI/CD Pipelines  
+
+💡 **What I Work On:**  
+- 🏗️ Architecting microservices-based applications with Spring Boot  
+- 🌐 Developing interactive and responsive web applications  
+- 🔄 Implementing robust APIs and backend logic  
+- ☁️ Deploying scalable solutions on cloud platforms  
+
+📌 **Projects & Contributions:**  
+- **E-commerce Platform Optimization**: Enhanced engagement by 40% & reduced load time by 30%  
+- **Real-time Chat System**: Integrated WebSockets for seamless customer communication  
+- **AI-driven Recommendation Engine**: Boosted sales by 15% through personalized suggestions  
+
+💻 **Let’s Connect & Collaborate!**  
+📧 lakshmantetali7@gmail.com | 🌎 [LinkedIn](#) | 🔗 [GitHub](#)  
+
+Would you like any refinements or additions to emphasize certain aspects? 🚀
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Lakshmandeveloper/count.svg)
