@@ -1,7 +1,8 @@
  ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lakshman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmantetali/)](https://www.linkedin.com/in/lakshmantetali/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshmantetali/)
 
 
 
